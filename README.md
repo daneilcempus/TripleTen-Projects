@@ -1,6 +1,6 @@
 # TripleTen-Projects
 
-# Portfólio de projetos de Análise de Dados
+# Portfólio de projetos de Ciência de Dados
 
 Aqui estão alguns dos meus projetos.
 
