@@ -2,7 +2,7 @@
 
 # Portfólio de projetos de Ciência de Dados
 
-Aqui estão alguns dos meus projetos.
+Este repositório armazena todos os projetos que desenvolvi durante minha jornada de 9 meses com o bootcamp da TripleTen. No arquivo README, os projetos estão organizados do primeiro ao último, permitindo acompanhar minha evolução em vários aspectos da área de ciência de dados. A TripleTen é uma empresa reconhecida pela Career Karma como o programa mais bem avaliado nos Estados Unidos nos últimos três anos. O bootcamp de Data Science oferece vários módulos com exercícios e conhecimentos teóricos elaborados cuidadosamente para os alunos. Além disso, o que mais valorizei ao iniciar foi o acesso quase diário a instrutores experientes para ensinar e esclarecer dúvidas sobre tudo relacionado à área. Após concluir o bootcamp, ganhei acesso à preparação de carreira, na qual são disponibilizados vários módulos voltados ao aspecto profissional, como conseguir o primeiro emprego na área e como se portar durante a jornada de trabalho como cientista de dados. Apesar do preço ser um pouco elevado em comparação a outras plataformas que oferecem apenas cursos, não me arrependo de ter investido neste bootcamp.
 
 | Projeto               | Descrição                                                                                   | Principais Recursos utilizados            |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
